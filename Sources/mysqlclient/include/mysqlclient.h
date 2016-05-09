@@ -1,4 +1,4 @@
 
-#include "/usr/local/include/mysql/mysql.h"
+#include "/usr/include/mysql/mysql.h"
 
 
